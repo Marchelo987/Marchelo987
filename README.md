@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @Marchelo987
-- 👀 I’m interested in code and cybersecurity
+- 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning Python,HTML,Javascript,C++
-- 💞️ I’m looking to collaborate on the management of privacy for everyone  
-- 📫 How to reach me ...
